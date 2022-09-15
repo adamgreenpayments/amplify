@@ -12,7 +12,7 @@
 </script>
 
 <main>
-  <h1>React inside Svelte</h1>
+  <h1>React inside Svelte inside Poop</h1>
   <h2>with React Material UI!</h2>
   
   <ReactAdapter 
